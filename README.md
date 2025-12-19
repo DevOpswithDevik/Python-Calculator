@@ -1,4 +1,3 @@
-![Python CI Unit Tests](https://github.com/DevOpswithDevik/Python-Calculator/actions/workflows/python-app.yml/badge.svg)
 # Python Calculator with CI/CD
 
 ![Python CI Unit Tests](https://github.com/DevOpswithDevik/Python-Calculator/actions/workflows/python-app.yml/badge.svg)
